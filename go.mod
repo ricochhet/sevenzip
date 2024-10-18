@@ -3,7 +3,7 @@ module github.com/ricochhet/sevenzip
 go 1.22
 
 require (
-	github.com/ricochhet/simplefs v0.0.0-20241017210359-9b1941413fd4
+	github.com/ricochhet/simplefs v0.0.0-20241018024719-aa3851d4b0fc
 	github.com/ricochhet/simpleprocess v0.0.0-20241010173902-d1fdfc53017b
 )
 
